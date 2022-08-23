@@ -1,0 +1,43 @@
+# Project #: Reader of Books
+
+
+* Author: Rich B
+* Class: CS121 Section #02
+* Semester: Fall 2020
+
+## Overview
+
+This project is a  graphical user interface for the previous project witch was 
+an application that organize a collection of books. this program takes a csv file that contains
+text files and creates buttons for each text file and displays the files information when 
+the button is press
+
+## Reflection
+
+this activity was interesting, it made me use my previous project and add on to it. it was
+difficult at first because I did not understand how to read the map of the classes, it took 
+me some time to get it but I did and things got a lot faster.
+
+some other thing that I had to deal with was that it was not easy to learn the other things 
+that I was not taught how to use in class. like how to set a border on the JPanels. 
+
+## Compiling and Using
+
+To compile all that the user needs to do is press the run button on the top bar 
+if they are running the code on eclipse. after that the user can needs to enter a csv
+file that contains other file names, ones that is done they can press the load button and then 
+they can select any of the book buttons to see the books title , author and text.
+
+If the user goes trough the console they can compile and run the application
+by running the command:
+javac ReaderOfBooks.java
+java ReaderOfBooks
+
+ones that is done the user can needs to enter a csv file that contains other 
+file names, ones that is done they can press the load button and then 
+they can select any of the book buttons to see the books title , author and text.
+
+## Sources used
+
+I only used my previous activities, projects, google slides and 
+the tutors to get the project done.
